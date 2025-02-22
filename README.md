@@ -1,3 +1,15 @@
+# AgoraVote1
+
+## Project Setup
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/agoravote1.git
+   cd agoravote1
+````
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
